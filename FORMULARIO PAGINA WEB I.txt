@@ -1,0 +1,56 @@
+<HTML>
+<HEAD> 
+<LINK REL="ICON" HREF="C:\Users\Lupita Lopez\Pictures">
+<TITLE> SKATEBOARDING </TITLE>
+</HEAD>
+<BODY BGCOLOR="BLACK" TEXT="WHITE">
+<CENTER><H1><FONT COLOR="YELLOW" FACE="SEGOE PRINT">La creación de un nuevo mundo del Skate</H1></CENTER></FONT>
+<CENTER><IMG SRC="C:\Users\Lupita Lopez\Pictures\Skate.jpg" BORDER=1 SIZE 60 > </CENTER>
+<CENTER><P><FONT FACE="ARIAL"> ¿Qué es el Skateboarding? </P>
+
+<P> Es un deporte que consiste en deslizarse sobre un monopatín y a la vez poder realizar diversos trucos, gran parte de ellos elevando la tabla del suelo, haciendo figuras y piruetas con ella en el aire.</P>
+</FONT>
+<TABLE BORDER="1">
+<TR>
+<TD> PROFESIONALES DE TEAM VANS </TD>
+<TD> PROFESIONALES DE TEAM NIKE </TD>
+<TD> PROFESIONALES DE TEAM ADIDAS </TD>
+</TR>
+<TR>
+<TD> MAX BARRERA </TD>
+<TD> NYJAH HUSTON </TD>
+<TD> MARK GONZALES </TD>
+</TR>
+<TR>
+<TD> CRISTIAN HUERTA </TD>
+<TD> PAUL RODRIGUEZ </TD>
+<TD> LUCAS PUIG </TD>
+</TR>
+<TR>
+<TD> MAURICIO AGUIRRE </TD>
+<TD> STEFAN JANOSKI </TD>
+<TD> RODRIGO TX </TD>
+</TR>
+<TR>
+<TD> YAEL PRATZ </TD>
+<TD> ERIC KOSTON </TD>
+<TD> DAEWON SONG </TD>
+</TR>
+</TABLE></CENTER>
+<FONT COLOR="YELLOW"><H3> Marcas especiales para el Skate </FONT>
+<UL TYPE= CIRCLE>
+<LI> ELEMENT 
+<LI> MISTERY 
+<LI> POWELL
+<LI> BLIND 
+<LI> SK8mafia
+<LI> ALIEN WORKSHOP
+<LI> SKATES PLAN B
+<LI> SKATES ZERO
+</UL>
+<CENTER><H2><FONT COLOR="YELLOW" FACE="SEGOE PRINT"> Marca mas conocida por la comunidad Skater </H2></FONT></CENTER>
+<A HREF="https://www.nike.com/xl/es_la/c/skateboarding/nike-skateboarding-team"><CENTER><IMG SRC="C:\Users\Lupita Lopez\Pictures\NIKE.jpg"></CENTER></A>
+<CENTER><iframe width="1000" height="500" src="https://www.youtube.com/embed/XBgbBrxj2to" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</CENTER>
+</BODY>
+</HTML>
